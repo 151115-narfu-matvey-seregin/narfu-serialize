@@ -44,7 +44,6 @@
   <documents>Document.Бронирование</documents>
   <enums>Enum.ПолФизическихЛиц</enums>
   <dataProcessors>DataProcessor.ВыгрузкаCSV</dataProcessors>
-  <dataProcessors>DataProcessor.ВыгрузкаJSON</dataProcessors>
   <dataProcessors>DataProcessor.ВыгрузкаXLSX</dataProcessors>
   <dataProcessors>DataProcessor.ВыгрузкаXML</dataProcessors>
   <dataProcessors>DataProcessor.ВыгрузкаZIP</dataProcessors>
@@ -54,6 +53,6 @@
   <dataProcessors>DataProcessor.ЗагрузкаODataJSON</dataProcessors>
   <dataProcessors>DataProcessor.ЗагрузкаODataXML</dataProcessors>
   <dataProcessors>DataProcessor.ЗагрузкаXML</dataProcessors>
-  <dataProcessors>DataProcessor.ЗагрузкаXSLX</dataProcessors>
+  <dataProcessors>DataProcessor.ЗагрузкаXSLX_и_ВыгрузкаJSON</dataProcessors>
   <dataProcessors>DataProcessor.ЗагрузкаZIP</dataProcessors>
 </mdclass:Configuration>
