@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e1279536-7bfe-4005-8a0e-0d2ac889cbed">
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f824a110-b08e-4977-b976-a4d3d7b61589">
   <producedTypes>
-    <objectType typeId="378160b8-59df-484a-8276-6d8ebda12d77" valueTypeId="a1969a49-ee21-40cd-b069-5272f0934d20"/>
-    <managerType typeId="04eee527-0945-4193-b5d2-86b9f5ac8a40" valueTypeId="7ce6c35c-bba9-4fc9-9c58-6453ccccadcd"/>
+    <objectType typeId="a10051ef-7e63-445a-bec5-bc4cbcf75105" valueTypeId="e0a168bd-6e09-4af2-801c-a09f6cce8cdd"/>
+    <managerType typeId="849973fe-731d-430d-9507-1245724ea7a1" valueTypeId="9472a2aa-c5c0-4632-a214-844a812c7ee5"/>
   </producedTypes>
   <name>ЗагрузкаZIP</name>
   <synonym>
