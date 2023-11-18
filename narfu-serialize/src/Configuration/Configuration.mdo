@@ -28,8 +28,6 @@
   <defaultLanguage>Language.Русский</defaultLanguage>
   <dataLockControlMode>Managed</dataLockControlMode>
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
-  <modalityUseMode>DontUse</modalityUseMode>
-  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
   <compatibilityMode>8.3.22</compatibilityMode>
   <languages uuid="2b4a262f-8c59-4a1f-84e5-5e13dd01420f">
     <name>Русский</name>
@@ -50,6 +48,7 @@
   <dataProcessors>DataProcessor.ВыгрузкаZIP</dataProcessors>
   <dataProcessors>DataProcessor.ВыгрузкаЗагрузкаДемо</dataProcessors>
   <dataProcessors>DataProcessor.ЗагрузкаCSV</dataProcessors>
+  <dataProcessors>DataProcessor.ЗагрузкаDBF</dataProcessors>
   <dataProcessors>DataProcessor.ЗагрузкаJSON</dataProcessors>
   <dataProcessors>DataProcessor.ЗагрузкаODataJSON</dataProcessors>
   <dataProcessors>DataProcessor.ЗагрузкаODataXML</dataProcessors>
