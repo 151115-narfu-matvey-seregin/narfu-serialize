@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d02bf3f1-7ae6-49c0-b80a-1edd403c8bd1">
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b9239af2-2bd5-4e53-8291-80ef0bbc1968">
   <producedTypes>
-    <objectType typeId="248f39e9-3e0c-4e7f-ab58-6dabaac9edcf" valueTypeId="8809ed99-335c-4e5d-8b6e-9ddb483bf206"/>
-    <managerType typeId="d67b4566-a653-4258-b722-e134043a7a64" valueTypeId="28717348-f889-4cc1-ac65-db19ca586959"/>
+    <objectType typeId="79e923ae-b92c-41e7-995c-c595ed2b6379" valueTypeId="ee03622c-401c-49ce-af0b-58f4302d2ec2"/>
+    <managerType typeId="4cc821db-f222-45e7-9539-7da2931b78ff" valueTypeId="f849deb2-e96b-4577-ac27-d8a8e719caf5"/>
   </producedTypes>
   <name>ЗагрузкаXML</name>
   <synonym>
