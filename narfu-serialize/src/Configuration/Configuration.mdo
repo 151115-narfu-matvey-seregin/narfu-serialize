@@ -54,7 +54,7 @@
   <dataProcessors>DataProcessor.ЗагрузкаJSON</dataProcessors>
   <dataProcessors>DataProcessor.ЗагрузкаODataJSON</dataProcessors>
   <dataProcessors>DataProcessor.ЗагрузкаODataXML</dataProcessors>
+  <dataProcessors>DataProcessor.ЗагрузкаXLSX</dataProcessors>
   <dataProcessors>DataProcessor.ЗагрузкаXML</dataProcessors>
-  <dataProcessors>DataProcessor.ЗагрузкаXSLX</dataProcessors>
   <dataProcessors>DataProcessor.ЗагрузкаZIP</dataProcessors>
 </mdclass:Configuration>
