@@ -10,4 +10,14 @@
     <value>Загрузка CSV</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.ЗагрузкаCSV.Form.Форма</defaultForm>
+  <forms uuid="fd4080c0-67fa-4090-b78b-9b00342c110b">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
 </mdclass:DataProcessor>
