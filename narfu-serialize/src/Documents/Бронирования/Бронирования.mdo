@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b6f40caa-03c3-4d72-9c01-529b180ebb40">
+  <producedTypes>
+    <objectType typeId="90b530a8-8e3b-4b5c-890b-352b7526ecc5" valueTypeId="a52bcde7-94f8-4aca-9af2-cc23d71fbf67"/>
+    <refType typeId="a4056ff2-9c9c-401b-9d28-96b971235bd5" valueTypeId="05d21947-a3a0-4e89-9ee0-8fa6067c1683"/>
+    <selectionType typeId="e26913e5-477e-459c-b824-6e7d3fa2abc3" valueTypeId="2342d08b-ca6b-4a5c-9af9-4a0783cf4f37"/>
+    <listType typeId="d8d1eed2-f268-466d-a597-6d96232b4261" valueTypeId="caf0817e-6594-4b03-aa7f-257fc5137862"/>
+    <managerType typeId="c796017e-72ae-42a7-a19e-708be2859297" valueTypeId="0ee5489a-095f-43ba-a5cf-81db36e5619a"/>
+  </producedTypes>
+  <name>Бронирования</name>
+  <synonym>
+    <key>ru</key>
+    <value>Бронирования</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.Бронирования.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <attributes uuid="f65151b8-4a3e-4e12-9af9-a30c500c60c9">
+    <name>ДатаЗаезда</name>
+    <synonym>
+      <key>ru</key>
+      <value>Дата заезда</value>
+    </synonym>
+    <type>
+      <types>Date</types>
+      <dateQualifiers>
+        <dateFractions>Date</dateFractions>
+      </dateQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="f30d85fd-e151-47b3-b4b2-8ed36a9b456d">
+    <name>ДатаВыезда</name>
+    <synonym>
+      <key>ru</key>
+      <value>Дата выезда</value>
+    </synonym>
+    <type>
+      <types>Date</types>
+      <dateQualifiers>
+        <dateFractions>Date</dateFractions>
+      </dateQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="6956c310-1d8a-444b-9ca6-1f23d8d7596b">
+    <name>ЗавтракВключен</name>
+    <synonym>
+      <key>ru</key>
+      <value>Завтрак включен</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="d3a814b8-ef5e-413b-87d2-8c66a948725a">
+    <name>ТипНомера</name>
+    <synonym>
+      <key>ru</key>
+      <value>Тип номера</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="3f2ef8bf-f14b-481d-a367-9713adc1da99">
+    <name>Постояльцы</name>
+    <synonym>
+      <key>ru</key>
+      <value>Постояльцы</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Document>

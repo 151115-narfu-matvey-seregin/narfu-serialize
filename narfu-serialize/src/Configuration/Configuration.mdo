@@ -42,6 +42,7 @@
   <catalogs>Catalog.Постояльцы</catalogs>
   <catalogs>Catalog.ТипыНомеров</catalogs>
   <documents>Document.Бронирование</documents>
+  <documents>Document.Бронирования</documents>
   <enums>Enum.ПолФизическихЛиц</enums>
   <dataProcessors>DataProcessor.ВыгрузкаCSV</dataProcessors>
   <dataProcessors>DataProcessor.ВыгрузкаJSON</dataProcessors>
