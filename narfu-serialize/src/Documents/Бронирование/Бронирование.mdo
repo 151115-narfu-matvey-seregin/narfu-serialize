@@ -87,10 +87,10 @@
       <value>Постояльцы</value>
     </synonym>
     <attributes uuid="bb48c761-711d-4028-b47c-e41af6326d27">
-      <name>Постоялей</name>
+      <name>Постоялец</name>
       <synonym>
         <key>ru</key>
-        <value>Постоялей</value>
+        <value>Постоялец</value>
       </synonym>
       <type>
         <types>CatalogRef.Постояльцы</types>
